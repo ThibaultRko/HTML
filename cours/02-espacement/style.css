@@ -1,0 +1,18 @@
+div{
+    width: 250px; /*pt, em, rem, %, vw */
+    height: 350px;/*pt, em, rem, %, vh */
+    
+    background-color: chartreuse;
+    
+    margin: 100px; /*marge exterieur*/
+    padding: 40px; /*espacement interieur*/
+
+    margin-left: 200px;
+    
+    padding: 20px, 10x;/*top / bottom*/
+
+    margin: 10px, 20px, 10px, 30px; /* top, right, bot, left*/
+
+    margin: 0, auto;/*auto center*/
+}
+

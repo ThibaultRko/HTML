@@ -1,0 +1,19 @@
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    object-fit: cover; /*couvre sans déformer l'image*/
+}
+
+div, p{
+    background-color: gold;
+    padding: 30px;
+    margin: 20px;
+    display: inline-block;
+}
+
+span{
+    font-weight: bold;
+    color: fuchsia;
+    padding: 10px,0;
+}
